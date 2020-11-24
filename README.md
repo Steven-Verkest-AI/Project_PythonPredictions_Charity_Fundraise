@@ -1,4 +1,4 @@
-Due to a computer crash, most files have been lost of this project
+Sidenote: This was my first real life project.
 
 # Project_PythonPredictions_Charity_Fundraise
 
