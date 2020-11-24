@@ -1,19 +1,32 @@
 Sidenote: This was my first real life project.
 
-# Project_PythonPredictions_Charity_Fundraise
+## Project_PythonPredictions_Charity_Fundraise
 
-This project was a collaboration of: Seppe, Wim and Steven
+This is a use case collaboration of Steven, Robin, Seppe and Kristof
 
-# Goal
-Trying to predict which donors will give money again if a next campaing would take place.
+### Goals
 
-# Used Technologies
+
+
+### Table of contents
+
+* [Technologies used](#technologies-used)
+
+### Technologies used
 - logistic regression
 - clustering
 - SVM
 - Decision Trees
 - could be used for further research -> Dimensionality Reduction & Principal Component Analysis
 
+### Approaches
+
+### To use
+
+hjklkjhghjklbn,;lk,jnk,
+```
+file_name.py
+```
 
 
 
